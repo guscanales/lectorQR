@@ -1,0 +1,12 @@
+{
+  "name": "lectorQR",
+  "app_id": "8d1b3a6d",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
